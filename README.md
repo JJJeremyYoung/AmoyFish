@@ -1,2 +1,3 @@
 # AmoyFish
-Just Interest
+只是兴趣
+Awsome
